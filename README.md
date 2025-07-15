@@ -8,9 +8,9 @@ Cada pasta representa um mini projeto com foco em aprender e aplicar os conceito
 ## 🗂️ Estrutura
 
 ```
-[📁 1. Shopping list](https://github.com/aline-mmiranda/basic-html5-css3-exercises/tree/952503352ec258fa4dbe287af19da9eb28f507ea/1.%20Shopping%20list)
-[📁 2. Image with link](https://github.com/aline-mmiranda/basic-html5-css3-exercises/tree/952503352ec258fa4dbe287af19da9eb28f507ea/2.%20Image%20with%20link)
-[📁 3. Colored paragraphs](https://github.com/aline-mmiranda/basic-html5-css3-exercises/tree/952503352ec258fa4dbe287af19da9eb28f507ea/3.%20Colored%20paragraphs)
+📁 [1. Shopping list](./1.%20Lista%20de%20compras)
+📁 [2. Image with link](./2.%20Imagem%20com%20link)
+📁 [3. Colored paragraphs](./3.%20Paragrafos%20coloridos)
 ```
 
 ---
