@@ -3,17 +3,15 @@
 Este repositório contém uma série de exercícios práticos desenvolvidos durante meus estudos iniciais em **HTML** e **CSS**.  
 Cada pasta representa um mini projeto com foco em aprender e aplicar os conceitos fundamentais da construção de páginas web.
 
----
+
 
 ## 🗂️ Estrutura
 
-```
-📁 [1. Shopping list](./1.%20Lista%20de%20compras)
-📁 [2. Image with link](./2.%20Imagem%20com%20link)
+📁 [1. Shopping list](./1.%20Lista%20de%20compras)  
+📁 [2. Image with link](./2.%20Imagem%20com%20link)  
 📁 [3. Colored paragraphs](./3.%20Paragrafos%20coloridos)
-```
 
----
+
 
 ## 🔎 Descrição dos Exercícios
 
@@ -40,7 +38,7 @@ Cada pasta representa um mini projeto com foco em aprender e aplicar os conceito
 
 ![Preview do exercício](./img/colored_paragraphs.png)
 
----
+
 
 ## 🎯 Objetivo
 
@@ -48,7 +46,7 @@ Cada pasta representa um mini projeto com foco em aprender e aplicar os conceito
 > Estou aprendendo os fundamentos da web e evoluindo passo a passo rumo ao desenvolvimento **full stack**.  
 > Cada exercício é uma pequena conquista no meu processo de aprendizagem. 🚀
 
----
+
 
 ## 🚀 Tecnologias
 
@@ -56,7 +54,7 @@ Cada pasta representa um mini projeto com foco em aprender e aplicar os conceito
 - CSS3
 - Visual Studio Code
 
----
+
 
 ## ✨ Autora
 
@@ -66,7 +64,7 @@ Feito com carinho por **Aline M Miranda**
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/aline-mmiranda)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-mmiranda)
 
----
+
 
 ## 📌 Observações
 
