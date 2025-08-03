@@ -56,6 +56,12 @@ Cada pasta representa um mini projeto com foco em aprender e aplicar os conceito
 
 
 
+## 🌐 Acesse o projeto online
+
+🔗 [Clique aqui para visualizar no GitHub Pages](https://aline-mmiranda.github.io/exercicios-html5-css3-basico/)
+
+
+
 ## ✨ Autora
 
 Feito com carinho por **Aline M Miranda**  
